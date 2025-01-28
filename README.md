@@ -5,7 +5,7 @@
   ## 👀 &nbsp;Sobre mí
 
   - 💻  Ingeniero de Software/Visión Computacional.
-  - 👨‍💼  Trabajo actualmente en Meteodata.
+  - 👨‍💼  Estoy buscando nuevos desafíos profesionales 👀
   - 🎮  Juego en PCs desde que tengo memoria 😅
   - 🪈  Toco flauta traversa desde los 7 años.
   - 🧠  Me gusta estar aprendiendo cosas nuevas; me aburre lo estático.
@@ -21,8 +21,8 @@
   ## 👀 &nbsp;Que puedes encontrar en este repo?
 
   - Mis proyectos de universidad.
+  - Mi fork de PokeEmerald que me encuentro desarrollando 🤩
   - Mi BOT de discord de MyL que quedó inconcluso jajaja.
-  - Mi fork de PokeEmerald (que todavía no está listo 😅)
 
  <br>
 </div>
@@ -30,7 +30,7 @@
 
 <div>
 
-  ## 🛠️ &nbsp;Compentencias Técnicas
+  ## 🛠️ &nbsp;Competencias Técnicas
 
   ![Python](https://img.shields.io/badge/-Python-ffd343?logo=python)&nbsp;
   ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)&nbsp;
