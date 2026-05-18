@@ -47,7 +47,7 @@
   ## 📫 &nbsp;Contacto
 
   [![LinkedIn Badge](https://img.shields.io/badge/-Diego_Pincheira_Ib.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-pincheira-iba%C3%B1ez/)](https://www.linkedin.com/in/diego-pincheira-iba%C3%B1ez/)
-  [![Gmail Badge](https://img.shields.io/badge/-Diego_Pincheira_Ib.-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:dpincheira@meteodata.cl)
+  [![Gmail Badge](https://img.shields.io/badge/-Diego_Pincheira_Ib.-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:diegopincheiraibanez@gmail.com)
   [![GitHub Badge](https://img.shields.io/badge/-DiegoPincheiraIb-393636?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/diegopincheiraib)
 
 </div>
